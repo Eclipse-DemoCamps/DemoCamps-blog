@@ -1,6 +1,16 @@
 DemoCamps-blog
 ==============
 
+## DemoCamp Kepler
+
+[DemoCamp Kepler](http://wiki.eclipse.org/Eclipse_DemoCamps_Kepler_2013)
+
+Take a look at [List of project on eclipse.org](http://projects.eclipse.org/list-of-projects) 
+or on [Wikipedia](http://en.wikipedia.org/wiki/List_of_Eclipse_projects),
+ [also](http://en.wikipedia.org/wiki/List_of_Eclipse-based_software)
+
+
+
 ## Gravatar
 
 Does any one already have gravatar with DemoCamp image?
